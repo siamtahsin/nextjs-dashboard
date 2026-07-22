@@ -1,4 +1,4 @@
 allowBuilds:
   bcrypt: true
-  bufferutil: set this to true or false
+  bufferutil: true
   sharp: true
